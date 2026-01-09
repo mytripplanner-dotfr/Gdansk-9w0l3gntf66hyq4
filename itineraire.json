@@ -1,0 +1,197 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "🏰",
+  "titre": "Escapade relaxante à Gdansk, la Perle de la Baltique",
+  "budget_total": "Environ 650-750 €/personne",
+  "duree": "4 jours",
+  "temps_vol": "2h15 depuis Paris, France",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans la Vieille Ville",
+      "legende": "Après un vol direct, installez-vous confortablement et laissez-vous charmer par l'atmosphère historique de la Vieille Ville de Gdansk. Une balade douce le long des rues emblématiques vous plongera directement dans l'ambiance médiévale de cette cité portuaire.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🛬 Arrivée à Gdansk</strong>: Atterrissage à l'aéroport Lech Wałęsa (GDN) et transfert vers le centre-ville.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez vos quartiers dans un hôtel confortable au cœur de la ville.",
+        "<strong>🚶‍♂️ Balade sur la Longue Rue et le Long Marché</strong>: Flânez le long de la Długa (Longue Rue) et du Długi Targ (Long Marché), admirez les façades colorées et la majestueuse Fontaine de Neptune."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Longue Rue, Gdansk",
+          "categorie": "Rue historique",
+          "coords": { "lat": 54.3496, "lng": 18.6496 }
+        },
+        {
+          "nom_recherche": "Fontaine de Neptune, Gdansk",
+          "categorie": "Monument",
+          "coords": { "lat": 54.3496, "lng": 18.6498 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport depuis l'aéroport",
+          "texte": "Des bus locaux (lignes 210, N3) ou des taxis/VTC sont disponibles pour rejoindre le centre-ville en environ 30-40 minutes."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "💎",
+      "titre": "Trésors d'ambre et vues sur la Motława",
+      "legende": "Découvrez l'histoire fascinante de l'ambre, \"l'or de la Baltique\", avant de vous promener le long de la rivière Motława. Terminez la journée par une vue imprenable sur la ville, offrant un mélange parfait de culture et de détente visuelle.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🏛️ Visite du Musée de l'Ambre</strong>: Plongez dans l'univers de cette résine fossile, emblème de Gdansk, et admirez des pièces uniques.",
+        "<strong>🚶‍♀️ Promenade le long de la Motława et la Grue Médiévale</strong>: Longez les quais animés de la rivière Motława et admirez l'emblématique Żuraw, la grue portuaire médiévale.",
+        "<strong> panoramic Vue depuis la Tour de l'Hôtel de Ville</strong>: Montez au sommet de la tour du Ratusz Głównego Miasta pour une perspective magnifique sur la Vieille Ville et ses environs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée de l'Ambre, Gdansk",
+          "categorie": "Musée",
+          "coords": { "lat": 54.3503, "lng": 18.6467 }
+        },
+        {
+          "nom_recherche": "Grue Médiévale, Gdansk",
+          "categorie": "Monument historique",
+          "coords": { "lat": 54.3506, "lng": 18.6575 }
+        },
+        {
+          "nom_recherche": "Hôtel de Ville de Gdansk",
+          "categorie": "Bâtiment historique",
+          "coords": { "lat": 54.3495, "lng": 18.6491 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil Ambre",
+          "texte": "Si vous souhaitez acheter de l'ambre, privilégiez les boutiques certifiées pour garantir l'authenticité de vos souvenirs."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "Sérénité à Oliwa et charme balnéaire de Sopot",
+      "legende": "Évadez-vous de l'agitation urbaine pour une matinée paisible à Oliwa, entre musique sacrée et nature luxuriante. L'après-midi, respirez l'air marin à Sopot, une station balnéaire élégante, parfaite pour une balade relaxante sur sa célèbre jetée.",
+      "lieu": "Gdansk et Sopot",
+      "activites": [
+        "<strong>⛪ Visite de la Cathédrale d'Oliwa et son parc</strong>: Découvrez l'impressionnante Cathédrale d'Oliwa, célèbre pour son orgue historique, et promenez-vous dans le paisible Parc Oliwski.",
+        "<strong>🏖️ Détente à Sopot et sa jetée</strong>: Prenez le train pour Sopot, une station balnéaire voisine, et profitez d'une balade revigorante sur la plus longue jetée en bois d'Europe, le Molo w Sopocie.",
+        "<strong>☕ Pause café en bord de mer</strong>: Savourez un café ou une pâtisserie dans l'un des charmants cafés de Sopot, face à la mer Baltique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Cathédrale d'Oliwa, Gdansk",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 54.4103, "lng": 18.5630 }
+        },
+        {
+          "nom_recherche": "Parc Oliwski, Gdansk",
+          "categorie": "Parc",
+          "coords": { "lat": 54.4100, "lng": 18.5640 }
+        },
+        {
+          "nom_recherche": "Jetée de Sopot, Sopot",
+          "categorie": "Jetée",
+          "coords": { "lat": 54.4444, "lng": 18.5746 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚆",
+          "titre": "Accès à Oliwa et Sopot",
+          "texte": "Oliwa est accessible en tram ou bus depuis le centre de Gdansk. Pour Sopot, le train SKM (Szybka Kolej Miejska) est le moyen le plus rapide et pratique."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛍️",
+      "titre": "Derniers souvenirs et départ",
+      "legende": "Profitez de cette dernière matinée pour quelques emplettes ou pour savourer une dernière fois l'ambiance de Gdansk. Un marché local vous permettra de trouver des souvenirs authentiques avant de prendre le chemin de l'aéroport, la tête remplie de beaux souvenirs.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🛍️ Visite du Marché Couvert (Hala Targowa)</strong>: Explorez ce marché historique pour dénicher des produits locaux, de l'artisanat ou des souvenirs de dernière minute.",
+        "<strong>☕ Petit-déjeuner polonais</strong>: Dégustez un dernier petit-déjeuner typique dans un café local, avec une pâtisserie fraîche et un bon café.",
+        "<strong>🛫 Départ de Gdansk</strong>: Transfert vers l'aéroport Lech Wałęsa (GDN) pour votre vol retour vers Paris."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Marché Couvert, Gdansk",
+          "categorie": "Marché",
+          "coords": { "lat": 54.3540, "lng": 18.6450 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées de souvenirs",
+          "texte": "Outre l'ambre, pensez aux céramiques de Bolesławiec, à la vodka polonaise ou aux broderies traditionnelles."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "202 €/personne (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 40 €/personne (transports locaux et train Sopot)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 240 €/personne (4 jours, 3 repas/jour, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 120 €/personne (3 nuits en hôtel 3*, base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 60 €/personne (musées, jetée, etc.)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai-Juin", "symbole": "🌸" },
+    { "titre": "Septembre-Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Złoty polonais (PLN). Les cartes de crédit sont largement acceptées, mais ayez un peu de liquide pour les petits commerces.", "symbole": "💳" },
+    { "titre": "La langue officielle est le polonais. L'anglais est couramment parlé dans les zones touristiques et par les jeunes.", "symbole": "🗣️" },
+    { "titre": "Le réseau de transports en commun (trams et bus) est efficace à Gdansk. Le train SKM relie Gdansk, Sopot et Gdynia.", "symbole": "🚌" },
+    { "titre": "Les prises électriques sont de type F (deux broches rondes), comme en France. Pas besoin d'adaptateur.", "symbole": "🔌" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Gdansk est le berceau du mouvement Solidarność, mené par Lech Wałęsa, qui a joué un rôle clé dans la chute du communisme en Europe de l'Est dans les années 1980."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "La ville est souvent surnommée la \"capitale mondiale de l'ambre\" en raison de sa longue tradition de commerce et de transformation de cette résine fossile, que l'on trouve en abondance sur les côtes de la Baltique."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🥟",
+      "titre": "Pierogi",
+      "description": "Ces raviolis polonais sont un incontournable, farcis de diverses garnitures comme la viande, le chou et les champignons, ou le fromage blanc et les pommes de terre."
+    },
+    {
+      "symbole": "🍲",
+      "titre": "Bigos",
+      "description": "Surnommé le \"ragoût du chasseur\", ce plat national est une choucroute mijotée avec différentes viandes (saucisse, porc), des champignons et des épices, un délice réconfortant."
+    },
+    {
+      "symbole": "🥣",
+      "titre": "Barszcz Czerwony",
+      "description": "La soupe de betterave rouge, souvent servie claire avec des \"uszka\" (petits raviolis aux champignons) ou crémeuse, est une entrée traditionnelle et savoureuse."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-GDN/2026-05-08/2026-05-12", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Gdansk", "url": "https://www.visitgdansk.com/fr/", "symbole": "📘" },
+    { "legende": "Transports en commun Gdansk", "titre": "ZTM Gdansk", "url": "https://ztm.gda.pl/en/", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Gdansk", "url": "https://www.meteo.fr/meteo-pologne/gdansk/ville-3000007", "symbole": "🌤️" }
+  ]
+}
